@@ -1,0 +1,7 @@
+# Raw case data is never committed: it contains victim and suspect names.
+data/raw/
+data/20*.csv
+data/*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
